@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
 
 <!--
+- :books: I’m currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
+- I'm currently working at my own project
+
 **luca-lc/luca-lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
