@@ -1,25 +1,23 @@
-## Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
+# Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
+## and I'm :it: :sunglasses:
+
+<br/>
+<br/>
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-lc&layout=compact&theme=highcontrast" align="right"/>
+
 <br/>
-:books: I'm currently studying Computer Science at the University of Pisa [University of Pisa](https://di.unipi.it/)
-:computer: I'm currently working on a my own project :mag: <a href="https://github.com/luca-lc/HomeHub" alt="HomeHub">HomeHub</a>
+
+:books: &ThickSpace;&ThickSpace; I'm currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
+
 <br/>
+
+:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own project &ThickSpace; :mag: [HomeHub](https://github.com/luca-lc/HomeHub)
+
+<br/>
+
+:link: &ThickSpace;&ThickSpace; Read more on [my site](https://luca-lc.github.io)
+
+<br/>
+
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
-<!--
-- :books: I’m currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
-- I'm currently working at my own project
-
-**luca-lc/luca-lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
