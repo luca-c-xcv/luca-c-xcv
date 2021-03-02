@@ -1,10 +1,14 @@
 ## Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
 
 <div class="container">
-  <div class="contents">
+  <div>
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-lc&layout=compact&theme=highcontrast" align="right"/>
   </div>
-  <div class="imgs" style="float:right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" >
+  <br/><br/>
+  <br/><br/>
+  <br/><br/>
+  <div>
+    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
   </div>
 </div>
 <!--
