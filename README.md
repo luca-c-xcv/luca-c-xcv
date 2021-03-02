@@ -1,9 +1,6 @@
 # Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
 ## and I'm :it: :sunglasses:
 
-<br/>
-<br/>
-
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-lc&layout=compact&theme=highcontrast" align="right"/>
 
 <br/>
