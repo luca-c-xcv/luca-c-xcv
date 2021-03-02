@@ -1,16 +1,11 @@
 ## Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
 
-<div class="container">
-  <div>
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-lc&layout=compact&theme=highcontrast" align="right"/>
-  </div>
-  <br/><br/>
-  <br/><br/>
-  <br/><br/>
-  <div>
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
-  </div>
-</div>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-lc&layout=compact&theme=highcontrast" align="right"/>
+<br/>
+:books: I'm currently studying Computer Science at the University of Pisa [University of Pisa](https://di.unipi.it/)
+:computer: I'm currently working on a my own project :mag: <a href="https://github.com/luca-lc/HomeHub" alt="HomeHub">HomeHub</a>
+<br/>
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
 <!--
 - :books: I’m currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
 - I'm currently working at my own project
