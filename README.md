@@ -1,5 +1,12 @@
 ## Hi! :wave: I'm Luca! :stuck_out_tongue_winking_eye:
 
+<div class="container">
+  <div class="contents">
+  </div>
+  <div class="imgs" style="float:right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" >
+  </div>
+</div>
 <!--
 - :books: I’m currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
 - I'm currently working at my own project
