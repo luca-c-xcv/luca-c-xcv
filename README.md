@@ -44,6 +44,8 @@
   <a href="https://www.instagram.com/lucalc_lc/"><img align="left" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logoColor=fff&logo=instagram" alt="instagram"/></a>
 </div>
 
+<br/>
+
 #### or write to me
 
 <div>
