@@ -7,11 +7,7 @@
 
 :books: &ThickSpace;&ThickSpace; I'm currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
 
-<br/>
-
 :computer: &ThickSpace;&ThickSpace; I'm currently working on a my own project &ThickSpace; :mag: [HomeHub](https://github.com/luca-lc/HomeHub)
-
-<br/>
 
 :link: &ThickSpace;&ThickSpace; Read more on [my site](https://luca-lc.github.io)
 
