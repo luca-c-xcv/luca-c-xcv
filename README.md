@@ -11,10 +11,15 @@
 
 :link: &ThickSpace;&ThickSpace; Read more on [my site](https://luca-lc.github.io)
 
-<br/>
+<br/><br/><br/>
+
+
+
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
 
+<br/>
+<br/>
 
 <div>
 	<h3>Languages:</h3>
