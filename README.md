@@ -18,8 +18,6 @@
 
 <img width="350px" src="https://github-readme-stats.vercel.app/api?username=luca-lc&show_icons=true&theme=highcontrast" align="right"/>
 
-<br/>
-<br/>
 
 <div>
 	<h3>Languages:</h3>
