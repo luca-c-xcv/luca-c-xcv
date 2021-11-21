@@ -5,11 +5,11 @@
 
 <br/>
 
-:books: &ThickSpace;&ThickSpace; I'm currently studying Computer Science at the [University of Pisa](https://di.unipi.it/)
+:books: &ThickSpace;&ThickSpace; I'm currently studying Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
 
-:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; :mag: [HomeHub](https://github.com/luca-lc/HomeHub) :mag: [HUBHA](https://github.com/luca-lc/HUBHA)
+:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-lc/HomeHub) &nbsp; [:mag: HUBHA](https://github.com/luca-lc/HUBHA)
 
-:link: &ThickSpace;&ThickSpace; Read more on [my site](https://luca-lc.github.io)
+:link: &ThickSpace;&ThickSpace; Read more on [:globe_with_meridians:  my site](https://luca-lc.github.io)
 
 <br/><br/><br/>
 
