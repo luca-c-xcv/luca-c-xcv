@@ -9,7 +9,7 @@
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
-:link: &ThickSpace;&ThickSpace; Read more on [:globe_with_meridians:  my site](https://luca-c-xcv.github.io)
+:link: &ThickSpace;&ThickSpace; Read more about me on [:globe_with_meridians:  my site](https://luca-c-xcv.github.io)
 
 <br/><br/><br/>
 
