@@ -65,4 +65,5 @@
 <div>
 	<h5>or write to me</h5>
   	<a target="_blank" href="mailto:lccanessa@gmail.com"><img align="left" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logoColor=fff&logo=gmail" alt="gmail"/></a>
+	<a target="_blank" href="https://t.me/luca_c_xcv"><img align="left" src="https://img.shields.io/badge/-telegram-25a3e1?style=for-the-badge&logoColor=fff&logo=telegram" alt="telegram"/></a>
 </div>
