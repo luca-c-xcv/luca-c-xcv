@@ -9,6 +9,8 @@
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
+:deciduous_tree: &ThickSpace;&ThickSpace; every way to get in touch with me [:speech_balloon: business card](https://linktr.ee/luca.c.xcv)
+
 :link: &ThickSpace;&ThickSpace; Read more about me on [:globe_with_meridians:  my site](https://luca-c-xcv.github.io)
 
 <br/><br/><br/>
@@ -20,6 +22,16 @@
 
 
 <div>
+	<h3>Codes (others):</h3>
+	  <a target="_blank" href="https://gist.github.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-000?logoColor=fff&logo=github"/></a>
+	  <a target="_blank" href="https://www.gitlab.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-fff?logoColor=fff&logo=gitlab"/></a>
+</div>
+
+<br/>
+<br/>
+
+
+<div>	  
 	<h3>Languages:</h3>
 	  <a target="_blank" href="https://www.gnu.org/software/bash/"><img width="40px" align="left" src="https://img.shields.io/badge/-4EAA25?logoColor=fff&logo=gnu-bash" alt="bash"/></a>
 	<a target="_blank" href="http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf"><img width=40px" align="left" src="https://img.shields.io/badge/-A8B9CC?logoColor=000&logo=c" alt="c"/></a>
@@ -50,20 +62,9 @@
 <br/>
 <br/>
 
-
 <div>
-	<h3>Connect with me</h3>
- 	<a target="_blank" href="https://twitter.com/luca_c_xcv"><img align="left" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logoColor=fff&logo=twitter" alt="twitter"/></a>
- 	<a target="_blank" href="https://www.linkedin.com/in/luca-c-xcv"><img align="left" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logoColor=fff&logo=linkedin" alt="linkedin"/></a>
- 	<a target="_blank" href="https://www.facebook.com/luca.c.xcv"><img align="left" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logoColor=fff&logo=facebook" alt="facebook"/></a>
- 	<a target="_blank" href="https://www.instagram.com/luca.c_xcv"><img align="left" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logoColor=fff&logo=instagram" alt="instagram"/></a>
-</div>
-
-<br/>
-
-
-<div>
-	<h5>or write to me</h5>
-  	<a target="_blank" href="mailto:lccanessa@gmail.com"><img align="left" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logoColor=fff&logo=gmail" alt="gmail"/></a>
-	<a target="_blank" href="https://t.me/luca_c_xcv"><img align="left" src="https://img.shields.io/badge/-telegram-25a3e1?style=for-the-badge&logoColor=fff&logo=telegram" alt="telegram"/></a>
+	<h5>Write me:</h5>
+  	<a target="_blank" href="https://t.me/luca_c_xcv"><img align="left" src="https://img.shields.io/badge/-telegram-25a3e1?style=for-the-badge&logoColor=fff&logo=telegram" alt="telegram"/></a>
+	<a target="_blank" href="mailto:lccanessa@gmail.com"><img align="left" src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logoColor=fff&logo=gmail" alt="gmail"/></a>
+	<a target="_blank" href="https://linktr.ee/luca.c.xcv"><img align="left" src="https://img.shields.io/badge/-linktree-00ff00?style=for-the-badge&logoColor=fff&logo=LinkTree" alt="linktree"/></a>
 </div>
