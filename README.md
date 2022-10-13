@@ -9,7 +9,7 @@
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
-:deciduous_tree: &ThickSpace;&ThickSpace; every way to get in touch with me [:speech_balloon: business card](https://linktr.ee/luca.c.xcv)
+:deciduous_tree: &ThickSpace;&ThickSpace; All the ways to get in touch with me [:speech_balloon: business card](https://linktr.ee/luca.c.xcv)
 
 :link: &ThickSpace;&ThickSpace; Read more about me on [:globe_with_meridians:  my site](https://luca-c-xcv.github.io)
 
