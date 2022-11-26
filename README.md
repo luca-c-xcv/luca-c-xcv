@@ -24,7 +24,7 @@
 <div>
 	<h3>Codes (others):</h3>
 	  <a target="_blank" href="https://gist.github.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-000?logoColor=fff&logo=github"/></a>
-	  <a target="_blank" href="https://www.gitlab.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-fff?logoColor=fff&logo=gitlab"/></a>
+	  <a target="_blank" href="https://www.gitlab.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-fff?logoColor=FFBF00&logo=gitlab"/></a>
 </div>
 
 <br/>
