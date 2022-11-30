@@ -67,7 +67,7 @@
 
 <div>
 	<h3>Hardware I use</h3>
-  <a target="_blank" href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img align="left" width="50px" src="https://img.shields.io/badge/-000?logoColor=fff&logo=thinkpad" alt="arduino"/></a>
+  <a target="_blank" href="https://www.lenovo.com/it/it/think/"><img align="left" width="50px" src="https://img.shields.io/badge/-000?logoColor=fff&logo=thinkpad" alt="arduino"/></a>
 	<a target="_blank" href="https://www.arduino.cc/"><img align="left" width="50px" src="https://img.shields.io/badge/-00979D?logoColor=fff&logo=arduino" alt="arduino"></a>
 	<a target="_blank" href="https://www.raspberrypi.org/"><img align="left" width="50px" src="https://img.shields.io/badge/-C51A4A?logoColor=fff&logo=raspberry-pi" alt="raspberry"></a>
 </div>
