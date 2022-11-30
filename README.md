@@ -22,7 +22,7 @@
 
 
 <div>
-	<h3>Codes (others):</h3>
+	<h3>My Codes:</h3>
 	  <a target="_blank" href="https://gist.github.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-000?logoColor=fff&logo=github"/></a>
 	  <a target="_blank" href="https://www.gitlab.com/luca-c-xcv"><img width="40px" align="left" src="https://img.shields.io/badge/-fff?logoColor=FFBF00&logo=gitlab"/></a>
 </div>
@@ -32,7 +32,7 @@
 
 
 <div>	  
-	<h3>Languages:</h3>
+	<h3>Programming languages I use:</h3>
 	  <a target="_blank" href="https://www.gnu.org/software/bash/"><img width="40px" align="left" src="https://img.shields.io/badge/-4EAA25?logoColor=fff&logo=gnu-bash" alt="bash"/></a>
 	<a target="_blank" href="http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1256.pdf"><img width=40px" align="left" src="https://img.shields.io/badge/-A8B9CC?logoColor=000&logo=c" alt="c"/></a>
 	<a target="_blank" href="https://isocpp.org/"><img width="40px" align="left" src="https://img.shields.io/badge/-fff?logoColor=fff&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+QysrIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMi4zOTQgNmMtLjE2Ny0uMjktLjM5OC0uNTQzLS42NTItLjY5TDEyLjkyNi4yMmMtLjUwOS0uMjk0LTEuMzQtLjI5NC0xLjg0OCAwTDIuMjYgNS4zMWMtLjUwOC4yOTMtLjkyMyAxLjAxMy0uOTIzIDEuNnYxMC4xOGMwIC4yOTQuMTA0LjYyLjI3MS45MS4xNjcuMjkuMzk4LjU0My42NTIuNjlsOC44MTYgNS4wOWMuNTA4LjI5MyAxLjM0LjI5MyAxLjg0OCAwbDguODE2LTUuMDljLjI1NC0uMTQ3LjQ4NS0uNC42NTItLjY5LjE2Ny0uMjkuMjctLjYxNi4yNy0uOTFWNi45MWMuMDAzLS4yOTQtLjEtLjYyLS4yNjgtLjkxek0xMiAxOS4xMWMtMy45MiAwLTcuMTA5LTMuMTktNy4xMDktNy4xMSAwLTMuOTIgMy4xOS03LjExIDcuMTEtNy4xMWE3LjEzMyA3LjEzMyAwIDAxNi4xNTYgMy41NTNsLTMuMDc2IDEuNzhhMy41NjcgMy41NjcgMCAwMC0zLjA4LTEuNzhBMy41NiAzLjU2IDAgMDA4LjQ0NCAxMiAzLjU2IDMuNTYgMCAwMDEyIDE1LjU1NWEzLjU3IDMuNTcgMCAwMDMuMDgtMS43NzhsMy4wNzggMS43OEE3LjEzNSA3LjEzNSAwIDAxMTIgMTkuMTF6bTcuMTEtNi43MTVoLS43OXYuNzloLS43OXYtLjc5aC0uNzl2LS43OWguNzl2LS43OWguNzl2Ljc5aC43OXptMi45NjIgMGgtLjc5di43OWgtLjc5di0uNzloLS43OXYtLjc5aC43OXYtLjc5aC43OXYuNzloLjc5eiIvPjwvc3ZnPg==" alt="c++"/></a>
@@ -45,15 +45,29 @@
 <br/>
 <br/>
 
+<div>	  
+	<h3>Markup languages I use:</h3>
+	  <a target="_blank" href="https://html.spec.whatwg.org/"><img width="40px" align="left" src="https://img.shields.io/badge/-FFFFFF?logo=html5" alt="html"/></a>
+    <a target="_blank" href="https://www.w3.org/TR/CSS/#css"><img width="40px" align="left" src="https://img.shields.io/badge/-FFFFFF?logoColor=1F51FF&logo=css3" alt="html"/></a>
+    <a target="_blank" href="https://daringfireball.net/projects/markdown/"><img width="40px" align="left" src="https://img.shields.io/badge/-FFFFFF?logoColor=000&logo=markdown" alt="md"/></a>
+    <a target="_blank" href="https://www.latex-project.org/"><img width="40px" align="left" src="https://img.shields.io/badge/-FFFFFF?logoColor=008080&logo=latex" alt="Latex"/></a>
+</div>
+
+<br/>
+<br/>
+
 
 <div>
-	<h3>Tools</h3>
+	<h3>Tools I use</h3>
 	<a target="_blank" href="https://www.docker.com/"><img align="left" width="50px" src="https://img.shields.io/badge/-2496ED?logoColor=fff&logo=docker" alt="docker"/></a>
+  <a target="_blank" href="https://www.virtualbox.org/"><img align="left" width="50px" src="https://img.shields.io/badge/-1d3d67?logoColor=fff&logo=virtualbox" alt="docker"/></a>
 </div>
+<br/>
 <br/>
 
 <div>
-	<h3>Hardware</h3>
+	<h3>Hardware I use</h3>
+  <a target="_blank" href="https://www.lenovo.com/us/en/c/laptops/thinkpad/"><img align="left" width="50px" src="https://img.shields.io/badge/-000?logoColor=fff&logo=thinkpad" alt="arduino"/></a>
 	<a target="_blank" href="https://www.arduino.cc/"><img align="left" width="50px" src="https://img.shields.io/badge/-00979D?logoColor=fff&logo=arduino" alt="arduino"></a>
 	<a target="_blank" href="https://www.raspberrypi.org/"><img align="left" width="50px" src="https://img.shields.io/badge/-C51A4A?logoColor=fff&logo=raspberry-pi" alt="raspberry"></a>
 </div>
