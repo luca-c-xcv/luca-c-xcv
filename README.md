@@ -5,7 +5,7 @@
 
 <br/>
 
-:mortar_board: &ThickSpace;&ThickSpace; I gradutaed in Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
+:mortar_board: &ThickSpace;&ThickSpace; I graduated in Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
