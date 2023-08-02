@@ -5,11 +5,11 @@
 
 <br/>
 
-:mortar_board: &ThickSpace;&ThickSpace; I'm currently studying Computer Science at the [University of Pisa :school:](https://di.unipi.it/)
+:mortar_board: &ThickSpace;&ThickSpace; I gradutaed in Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
-:right_anger_bubble: &ThickSpace;&ThickSpace; All the ways to get in touch with me [business card 🔖](https://linktr.ee/luca.c.xcv)
+:right_anger_bubble: &ThickSpace;&ThickSpace; All the ways to get in touch with me [🔖 business card](https://linktr.ee/luca.c.xcv)
 
 :link: &ThickSpace;&ThickSpace; Read more about me on [:globe_with_meridians:  my site](https://luca-c-xcv.github.io)
 
