@@ -1,6 +1,6 @@
-# Hi! :wave: I'm Luca! 😎
-## I'm :it: 👨‍💻 
-
+# Hi! :wave: <br/> I'm Luca 🙃 and I'm :it: 👨‍💻
+#### _<p align=center>«in Code_ 👨🏻‍💻 _I trust»_ <br/> 🇮🇹 ⚓ 😎 🏍 👨‍💻 🏎 🕺</p>
+---
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-c-xcv&layout=compact&theme=highcontrast" align="right"/>
 
 <br/>
