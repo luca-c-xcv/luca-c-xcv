@@ -1,11 +1,13 @@
-# Hi! :wave: <br/> I'm Luca 🙃 and I'm :it: 👨‍💻
-#### _<p align=center>«in Code_ 👨🏻‍💻 _I trust»_ <br/> 🇮🇹 ⚓ 😎 🏍 👨‍💻 🏎 🕺</p>
+# Hi! :wave: <br/> I'm Luca 🙃 and I'm :it:
+#### _<p align=center>«in Code I trust»_ <br/> 🇮🇹 ⚓ 😎 🏍 👨‍💻 🏎 🕺</p>
 ---
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luca-c-xcv&layout=compact&theme=highcontrast" align="right"/>
 
 <br/>
 
-:mortar_board: &ThickSpace;&ThickSpace; I graduated in Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
+👨‍💻 &ThickSpace;&ThickSpace; I'm working in [🏭 LogObject](https://logobject.com/en/)
+
+:mortar_board: &ThickSpace;&ThickSpace; I've a degree in Computer Science at the [:school: University of Pisa](https://di.unipi.it/)
 
 <!--:computer: &ThickSpace;&ThickSpace; I'm currently working on a my own projects &ThickSpace; [:mag: HomeHub](https://github.com/luca-c-xcv/HomeHub)-->
 
