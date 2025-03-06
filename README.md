@@ -1,5 +1,9 @@
 # \$ <span style="animation: blink 1s infinite;">Luca Canessa _</span>
 
+![](https://github-readme-stats.vercel.app/api?username=luca-c-xcv&show_icons=true&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-c-xcv&layout=compact&theme=dark)
+
 ## \$ whoami
 
 👋 Hi! 🙃 I'm Luca and I'm 🇮🇹
