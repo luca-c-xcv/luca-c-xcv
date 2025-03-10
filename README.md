@@ -1,14 +1,14 @@
-# \$ <span style="animation: blink 1s infinite;">𝙻𝚞𝚌𝚊 𝙲𝚊𝚗𝚎𝚜𝚜𝚊 _</span>
+# \$ 𝙻𝚞𝚌𝚊 𝙲𝚊𝚗𝚎𝚜𝚜𝚊 _
 
-## \$ whoami
+## \$ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 👋 Hi! 🙃 I'm Luca and I'm 🇮🇹
 
-## \$ echo "in Code I trust"
+## \$ 𝚎𝚌𝚑𝚘 "𝚒𝚗 𝙲𝚘𝚍𝚎 𝙸 𝚝𝚛𝚞𝚜𝚝"
 
 🇮🇹 ⚓ 😎 🏍 👨‍💻 🏎 🕺
 
-## \$ cat work.txt
+## \$ 𝚌𝚊𝚝 𝚠𝚘𝚛𝚔.𝚝𝚡𝚝
 
 👨‍💻 I'm working at [🏭 LogObject](https://logobject.com/en/)
 
@@ -16,7 +16,7 @@
 
 🎓 I've a degree in Computer Science from [:school: University of Pisa](https://di.unipi.it/)
 
-## \$ ls -l my\_codes/
+## \$ 𝚕𝚜 -𝚕 𝚖𝚢\_𝚌𝚘𝚍𝚎𝚜/
 
 ![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logoColor=fff&logo=github) [GitHub](https://github.com/luca-c-xcv?tab=repositories)
 
@@ -25,7 +25,7 @@
 ![GitLab](https://img.shields.io/badge/-fff?style=for-the-badge&logoColor=FFBF00&logo=gitlab) [GitLab](https://gitlab.com/luca-c-xcv)
 
 
-## \$ ls -l programming\_languages/
+## \$ 𝚕𝚜 -𝚕 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐\_𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜/
 
 ![Bash](https://img.shields.io/badge/-4EAA25?style=for-the-badge&logoColor=fff&logo=gnu-bash) [Bash](https://www.gnu.org/software/bash/)
 
@@ -42,7 +42,7 @@
 ![Python](https://img.shields.io/badge/-2b5b84?style=for-the-badge&logoColor=ffd343&logo=python) [Python](https://www.python.org/)
 
 
-## \$ ls -l markup\_languages/
+## \$ 𝚕𝚜 -𝚕 𝚖𝚊𝚛𝚔𝚞𝚙\_𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜/
 
 ![HTML](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=html5) [HTML](https://html.spec.whatwg.org/)
 
@@ -53,7 +53,7 @@
 ![LaTeX](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logoColor=008080&logo=latex) [LaTeX](https://www.latex-project.org/)
 
 
-## \$ ls -l tools/
+## \$ 𝚕𝚜 -𝚕 𝚝𝚘𝚘𝚕𝚜/
 
 ![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logoColor=fff&logo=docker) [Docker](https://www.docker.com/)
 
@@ -68,10 +68,10 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/-A22846?style=for-the-badge&logo=raspberrypi) [Raspberry Pi](https://www.raspberrypi.org/)
 
-## \$ curl -s my\_contact.json | jq
+## \$ 𝚌𝚞𝚛𝚕 -𝚜 𝚖𝚢\_𝚌𝚘𝚗𝚝𝚊𝚌𝚝.𝚓𝚜𝚘𝚗 | 𝚓𝚚
 
 ![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logoColor=fff&logo=gmail) [Gmail](mailto:lccanessa@gmail.com)
 
-## \$ echo "Thanks for stopping by!"
+## \$ 𝚎𝚌𝚑𝚘 "𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚜𝚝𝚘𝚙𝚙𝚒𝚗𝚐 𝚋𝚢!"
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luca-c-xcv&layout=compact&theme=dark)     ![](https://github-readme-stats.vercel.app/api?username=luca-c-xcv&show_icons=true&theme=dark)
