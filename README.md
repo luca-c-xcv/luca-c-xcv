@@ -1,4 +1,4 @@
-# \$ <span style="animation: blink 1s infinite;">Luca Canessa _</span>
+# \$ <span style="animation: blink 1s infinite;">𝙻𝚞𝚌𝚊 𝙲𝚊𝚗𝚎𝚜𝚜𝚊 _</span>
 
 ## \$ whoami
 
